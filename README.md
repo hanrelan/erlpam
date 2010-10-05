@@ -22,4 +22,7 @@ Examples:
 Note: erlpam requires Erlang R14A or later
 
 
+License:
+-------
 
+erlpam is released under the MIT license.
